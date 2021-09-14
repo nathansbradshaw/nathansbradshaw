@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- I am a Software Engineering student at Brigham Young University in Idaho
+[My website: Nathanbradshaw.dev](https://nathanbradshaw.dev/)
 <!--
 **nathansbradshaw/nathansbradshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
