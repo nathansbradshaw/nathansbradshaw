@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I Software Engineer
-[My website: Nathanbradshaw.dev](https://nathanbradshaw.dev/)
+[My website: Nathanbradshaw.dev](https://nathansbradshaw.github.io/)
 <!--
 **nathansbradshaw/nathansbradshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
